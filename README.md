@@ -18,7 +18,9 @@ To run this vehicle detection model in Google Colab, follow these steps:
 
 Run the vehicle detection model on an image or a video by executing the cells in the "Inference" section of the Colab notebook.
 
-By default, the notebook uses the pre-trained YOLOv8 weights for vehicle detection.
+#### Inferenced Videos
+
+https://drive.google.com/drive/folders/1CgDK77-qksDoOaEWADIe6vOoIj6RFjnD?usp=drive_link
 
 ### Training (Optional)
 
